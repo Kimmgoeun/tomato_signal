@@ -1,4 +1,2 @@
-streamlit
-tensorflow==2.20.0
-numpy
+tensorflow-cpu==2.20.0
 Pillow
